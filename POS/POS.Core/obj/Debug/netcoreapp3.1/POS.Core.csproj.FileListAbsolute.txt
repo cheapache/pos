@@ -1,0 +1,9 @@
+E:\General\POS\POS\POS.Core\bin\Debug\netcoreapp3.1\POS.Core.deps.json
+E:\General\POS\POS\POS.Core\bin\Debug\netcoreapp3.1\POS.Core.dll
+E:\General\POS\POS\POS.Core\bin\Debug\netcoreapp3.1\POS.Core.pdb
+E:\General\POS\POS\POS.Core\obj\Debug\netcoreapp3.1\POS.Core.csprojAssemblyReference.cache
+E:\General\POS\POS\POS.Core\obj\Debug\netcoreapp3.1\POS.Core.AssemblyInfoInputs.cache
+E:\General\POS\POS\POS.Core\obj\Debug\netcoreapp3.1\POS.Core.AssemblyInfo.cs
+E:\General\POS\POS\POS.Core\obj\Debug\netcoreapp3.1\POS.Core.csproj.CoreCompileInputs.cache
+E:\General\POS\POS\POS.Core\obj\Debug\netcoreapp3.1\POS.Core.dll
+E:\General\POS\POS\POS.Core\obj\Debug\netcoreapp3.1\POS.Core.pdb
