@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Domain\Carts\" />
+    <Folder Include="Domain\Customers\" />
+    <Folder Include="Domain\Orders\" />
+    <Folder Include="Domain\Products\" />
+  </ItemGroup>
+
+</Project>
